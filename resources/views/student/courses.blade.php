@@ -234,7 +234,6 @@
                 </div>
             </div>
         </div>
-
         <div class="container-right-bottom padding-1">
             <p class="text-body-200 weight-700 font-size-2">Course description</p>
             <div class="course-desc border radius">
